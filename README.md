@@ -1,2 +1,49 @@
-# Analog-Voice-Over-Circuit-
-An analog voice-over circuit that automatically switches between a 3.5 mm audio input and a microphone, featuring low-noise amplification, custom PCB design, and a 3D-printed enclosure, verified through simulation and hardware testing.
+# Analog Voice-Over Circuit
+
+This project implements an *analog voice-over circuit* that automatically switches between two audio channels:
+1. Audio from a 3.5 mm input jack
+2. Audio from a microphone (priority input)
+
+When the microphone is active, the circuit mutes the 3.5 mm input and plays the mic audio through a speaker.  
+The circuit is designed for *low noise and clear output* using optimized op-amp and filter configurations.
+
+---
+
+## Features
+- *Automatic audio switching* (mic priority)
+- *Microphone biasing and pre-amplifier* with low-pass filter
+- *Op-amp based precision rectifier* for control signal
+- *Adjustable audio pre-amplifier* (volume control)
+- *Push-pull power amplifier* using TIP41/TIP42
+- *±12 V power supply* with voltage regulators
+- *Custom PCB design* (dual-layer & single-layer)
+- *3D printed enclosure* in black PLA
+
+---
+
+## Folder Structure
+- /docs — Project report & presentation  
+- /simulation — LTSpice circuit and simulation results  
+- /pcb — PCB design files and Gerber files  
+- /enclosure — SolidWorks design files & STL exports  
+- /images — Rendered images and photos
+
+---
+
+## Hardware Overview
+| Section | Components | Purpose |
+|---------|------------|---------|
+| Mic Pre-amp | TL072 op-amp, RC filter | Amplify mic signal, reduce noise |
+| Switching | CD4066, comparators | Automatic channel selection |
+| Power Amp | TIP41/TIP42 transistors | Drive speaker |
+| Power Supply | 7812, 7912, transformer | Provide ±12 V rails |
+
+---
+
+## Authors
+- *Jayasekara S.P.R* – PCB Design, Documentation
+- *Peiris P.I.U* – Enclosure Design, Resource Management
+- *Viduranga J.K.A* – Circuit Design, Debugging
+- *Weerakoon W.M.B.H* – Circuit Design, Simulation, Testing
+
+
