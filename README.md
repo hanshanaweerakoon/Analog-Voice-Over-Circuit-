@@ -9,7 +9,7 @@ The circuit is designed for *low noise and clear output* using optimized op-amp 
 
 ---
 
-##Functional Block Diagram
+## Functional Block Diagram
 
 <img width="464" height="416" alt="functional_block_diagram" src="https://github.com/user-attachments/assets/f772f094-2894-4e31-8e8a-fa24c00fccf5" />
 
