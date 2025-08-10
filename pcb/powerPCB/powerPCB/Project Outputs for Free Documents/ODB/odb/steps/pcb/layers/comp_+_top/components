@@ -1,0 +1,231 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 3 13.97 23.114 270 N D4 1N5408 ;0=2,1=5.0500
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.onsemi.com/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.onsemi.com/pub_link/Collateral/1N5400-D.PDF'
+PRP ComponentLink3Description 'Package Specification'
+PRP ComponentLink3URL 'http://www.onsemi.com/pub_link/Collateral/267-05.PDF'
+PRP DatasheetVersion 'Rev. 10'
+PRP IFSM_Max_(A) '200'
+PRP IO(rec)_Max_(A) '3'
+PRP Manufacturer 'On Semiconductor'
+PRP Mounting_Technology 'Through Hole'
+PRP PackageDescription '2-Pin, Axial Lead, Diameter 5.05 mm'
+PRP PackageReference 'AXIAL_LEAD-2-267-05'
+PRP PackageVersion 'Rev. G, 06/2000'
+PRP Packing 'Bulk Box'
+PRP PartNumber '1N5408'
+PRP RoHS 'TRUE'
+PRP Type 'Standard Recovery'
+PRP VRRM_Max_(V) '1000'
+TOP 0 13.97 16.36899952 270 N 3 1 1
+TOP 1 13.97 29.85900048 270 N 5 3 2
+#
+# CMP 1
+CMP 3 22.098 23.114 90 N D3 1N5408 ;0=2,1=5.0500
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.onsemi.com/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.onsemi.com/pub_link/Collateral/1N5400-D.PDF'
+PRP ComponentLink3Description 'Package Specification'
+PRP ComponentLink3URL 'http://www.onsemi.com/pub_link/Collateral/267-05.PDF'
+PRP DatasheetVersion 'Rev. 10'
+PRP IFSM_Max_(A) '200'
+PRP IO(rec)_Max_(A) '3'
+PRP Manufacturer 'On Semiconductor'
+PRP Mounting_Technology 'Through Hole'
+PRP PackageDescription '2-Pin, Axial Lead, Diameter 5.05 mm'
+PRP PackageReference 'AXIAL_LEAD-2-267-05'
+PRP PackageVersion 'Rev. G, 06/2000'
+PRP Packing 'Bulk Box'
+PRP PartNumber '1N5408'
+PRP RoHS 'TRUE'
+PRP Type 'Standard Recovery'
+PRP VRRM_Max_(V) '1000'
+TOP 0 22.098 29.85900048 90 N 6 2 1
+TOP 1 22.098 16.36899952 90 N 3 0 2
+#
+# CMP 2
+CMP 3 5.588 22.987 270 N D2 1N5408 ;0=2,1=5.0500
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.onsemi.com/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.onsemi.com/pub_link/Collateral/1N5400-D.PDF'
+PRP ComponentLink3Description 'Package Specification'
+PRP ComponentLink3URL 'http://www.onsemi.com/pub_link/Collateral/267-05.PDF'
+PRP DatasheetVersion 'Rev. 10'
+PRP IFSM_Max_(A) '200'
+PRP IO(rec)_Max_(A) '3'
+PRP Manufacturer 'On Semiconductor'
+PRP Mounting_Technology 'Through Hole'
+PRP PackageDescription '2-Pin, Axial Lead, Diameter 5.05 mm'
+PRP PackageReference 'AXIAL_LEAD-2-267-05'
+PRP PackageVersion 'Rev. G, 06/2000'
+PRP Packing 'Bulk Box'
+PRP PartNumber '1N5408'
+PRP RoHS 'TRUE'
+PRP Type 'Standard Recovery'
+PRP VRRM_Max_(V) '1000'
+TOP 0 5.588 16.24199952 270 N 4 0 1
+TOP 1 5.588 29.73200048 270 N 5 2 2
+#
+# CMP 3
+CMP 3 13.589 37.846 180 N D1 1N5408 ;0=2,1=5.0500
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.onsemi.com/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.onsemi.com/pub_link/Collateral/1N5400-D.PDF'
+PRP ComponentLink3Description 'Package Specification'
+PRP ComponentLink3URL 'http://www.onsemi.com/pub_link/Collateral/267-05.PDF'
+PRP DatasheetVersion 'Rev. 10'
+PRP IFSM_Max_(A) '200'
+PRP IO(rec)_Max_(A) '3'
+PRP Manufacturer 'On Semiconductor'
+PRP Mounting_Technology 'Through Hole'
+PRP PackageDescription '2-Pin, Axial Lead, Diameter 5.05 mm'
+PRP PackageReference 'AXIAL_LEAD-2-267-05'
+PRP PackageVersion 'Rev. G, 06/2000'
+PRP Packing 'Bulk Box'
+PRP PartNumber '1N5408'
+PRP RoHS 'TRUE'
+PRP Type 'Standard Recovery'
+PRP VRRM_Max_(V) '1000'
+TOP 0 20.33400048 37.846 180 N 6 3 1
+TOP 1 6.84399952 37.846 180 N 4 1 2
+#
+# CMP 4
+CMP 2 48.387 13.462 90 N U2 LM7912CT ;0=2,1=19.4000
+PRP Code_IPC ''
+PRP Code_JEDEC ''
+PRP Code_JEITA ''
+PRP ComponentLink1Description 'Datasheet URL'
+PRP ComponentLink1URL 'http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LM7912&fileType=pdf'
+PRP CompType 'LDO IC'
+PRP High-Reliability ''
+PRP Manufacturer 'Texas Instruments'
+PRP PackageDescription 'TO-220, Molded, 3 Lead, Straight'
+PRP PackageReference 'NDE0003A'
+PRP PackageTopMarking 'NSUZXYTTE#*LM7912CT'
+PRP PartNumber ''
+PRP PinCount '3'
+PRP PowerWise 'N'
+PRP RoHS 'N'
+TOP 0 48.387 16.002 90 N 7 0 1
+TOP 1 48.387 13.462 90 N 5 0 2
+TOP 2 48.387 10.922 90 N 1 0 3
+#
+# CMP 5
+CMP 1 48.387 32.258 0 N U1 LM7812CT ;0=2,1=0.0000
+PRP Accuracy_Percentage '4%'
+PRP Automotive 'No'
+PRP Category 'IC'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.mouser.in/datasheet/2/308/LM7812-1125088.pdf'
+PRP Device_Class_L1 'Integrated Circuits (ICs)'
+PRP Device_Class_L2 'Power Management ICs'
+PRP Device_Class_L3 'Voltage Regulators - Linear'
+PRP Digikey_Description 'IC REG LINEAR 12V 1A TO220-3'
+PRP Dropout_Voltage '2V'
+PRP Height '20.4mm'
+PRP Ipc_Land_Pattern_Name 'TO-220'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'ON Semiconductor'
+PRP Manufacturer_Part_Number 'LM7812CT'
+PRP Max_Supply_Voltage '35V'
+PRP Nominal_Supply_Current '5.1mA'
+PRP Number_Of_Outputs '1'
+PRP Obsolete_Part 'true'
+PRP Octopart 'https://octopart.com/lm7812ct-on+semiconductor-14383031'
+PRP Output_Current '1A'
+PRP Output_Type 'Fixed'
+PRP Output_Voltage '12V'
+PRP Package 'TO220B03'
+PRP RoHS 'TRUE'
+PRP Standoff_Height '2.7mm'
+PRP Temperature '-40°C to +125°C'
+PRP Temperature_Range_High '+125°C'
+PRP Temperature_Range_Low '-40°C'
+TOP 0 47.84700108 34.79299874 0 N 6 1 1
+TOP 1 47.84700108 32.258 0 N 7 2 2
+TOP 2 47.84700108 29.72300126 0 N 2 0 3
+#
+# CMP 6
+CMP 0 35.306 11.36299988 270 N C2 EEUEE2G470 ;0=2,1=0.0000
+PRP Capacitance '47uF'
+PRP Case/Package 'Radial'
+PRP Construction 'RADIAL'
+PRP Diameter '16mm'
+PRP Dielectric_Material 'Aluminium'
+PRP Dissipation_Factor '0.24%'
+PRP Height '25mm'
+PRP Height_-_Seated_(Max) '0.984inch'
+PRP Lead_Diameter '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Lead_Pitch '7.5mm'
+PRP Leakage_Current '1.138mA'
+PRP Length '25mm'
+PRP Life_(Hours) '10000Hour'
+PRP Max_Operating_Temperature '105°C'
+PRP Min_Operating_Temperature '-25°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '100'
+PRP Packaging 'Bulk'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Ripple_Current '1.18A'
+PRP Ripple_Current_(AC) '1.18A'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'EE'
+PRP Termination 'Radial'
+PRP Tolerance '20%'
+PRP Voltage '400V'
+PRP Voltage_Rating '400V'
+PRP Voltage_Rating_(DC) '400V'
+TOP 0 35.306 7.61299976 270 N 5 1 1
+TOP 1 35.306 15.113 270 N 7 3 2
+#
+# CMP 7
+CMP 0 34.29 32.07100012 270 N C1 EEUEE2G470 ;0=2,1=0.0000
+PRP Capacitance '47uF'
+PRP Case/Package 'Radial'
+PRP Construction 'RADIAL'
+PRP Diameter '16mm'
+PRP Dielectric_Material 'Aluminium'
+PRP Dissipation_Factor '0.24%'
+PRP Height '25mm'
+PRP Height_-_Seated_(Max) '0.984inch'
+PRP Lead_Diameter '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Lead_Pitch '7.5mm'
+PRP Leakage_Current '1.138mA'
+PRP Length '25mm'
+PRP Life_(Hours) '10000Hour'
+PRP Max_Operating_Temperature '105°C'
+PRP Min_Operating_Temperature '-25°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '100'
+PRP Packaging 'Bulk'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Ripple_Current '1.18A'
+PRP Ripple_Current_(AC) '1.18A'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'EE'
+PRP Termination 'Radial'
+PRP Tolerance '20%'
+PRP Voltage '400V'
+PRP Voltage_Rating '400V'
+PRP Voltage_Rating_(DC) '400V'
+TOP 0 34.29 28.321 270 N 7 1 1
+TOP 1 34.29 35.82100024 270 N 6 0 2
+#
