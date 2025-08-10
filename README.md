@@ -55,7 +55,6 @@ The circuit is designed for *low noise and clear output* using optimized op-amp 
 ## Enclosure Design
 
 <img width="280" height="284" alt="Screenshot 2025-08-10 121109" src="https://github.com/user-attachments/assets/e1cca1f1-340d-4893-9a0a-23e8337f4053" />
-
 <img width="280" height="284" alt="Screenshot 2025-08-10 121109" src="https://github.com/user-attachments/assets/2259db0e-51ea-47f0-a634-0fcc88b50369" />
 <img width="269" height="205" alt="Screenshot 2025-08-10 121402" src="https://github.com/user-attachments/assets/3a7d3509-978e-4adc-84ec-05af392301ff" />
 
