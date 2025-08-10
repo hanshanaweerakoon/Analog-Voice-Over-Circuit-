@@ -46,6 +46,19 @@ The circuit is designed for *low noise and clear output* using optimized op-amp 
 
 ---
 
+## PCB Design
+
+<img width="680" height="632" alt="pcb_3D_view" src="https://github.com/user-attachments/assets/7b9815b7-268b-44d4-ac7d-eb09392d7e46" />
+
+---
+
+## Enclosure Design
+
+<img width="280" height="252" alt="Screenshot 2025-08-10 121109" src="https://github.com/user-attachments/assets/e1cca1f1-340d-4893-9a0a-23e8337f4053" />
+<img width="252" height="284" alt="Screenshot 2025-08-10 121132" src="https://github.com/user-attachments/assets/2259db0e-51ea-47f0-a634-0fcc88b50369" />
+
+---
+
 ## Authors
 - *Jayasekara S.P.R* – PCB Design, Documentation
 - *Peiris P.I.U* – Enclosure Design, Resource Management
